@@ -10,8 +10,6 @@ categories: woob
 
 The goal of this article is for you to discover what is Woob (previously called Weboob). You are going to learn why I use it, how to install it and the way to use it.
 
-{% toc %}
-
 ## Some definitions...
 
 First, we need to put out some meanings to be sure to talk about the same things.
